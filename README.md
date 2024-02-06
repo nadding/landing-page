@@ -49,6 +49,6 @@ The project is licensed under the [GNU Affero General Public License](https://en
 
 You may use the source code of the project accordingly.
 
-## 👀 Author
+## 👨🏻‍🔬 Author
 
 The project is developed by [Berzan](https://berzan.org/) with his blood, sweat, and tears.
